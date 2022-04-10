@@ -1,0 +1,75 @@
+body {
+	background-color: lightgray;
+}
+
+ 
+#corpo {
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	height: 600px;
+	 background-image: linear-gradient(gray, white); 
+}
+ 
+#tela {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 65px;
+	width: 100%;  
+	background-color: white;
+	border: medium solid black;
+}
+
+#botoes {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#btn-group{
+	margin-top: 40px;
+	margin-left: 40%;
+}
+
+
+#msgm{
+	margin-left: 20%;
+	 width: 100%; 
+}
+ 
+#slot1 {
+	  margin-top: 5px; 
+	  padding-left: 20%; 
+	  padding-right: 17px; 
+	  float: left; 
+	  border-right: thin dashed black; 
+	  width: 90px; 
+	  height: 90px; 
+	vertical-align: middle;
+}
+
+#slot2 {
+	 margin-top: 5px; 
+	 padding-left: 20%;
+	 padding-right: 17px; 
+	 float: left; 
+	 border-right: thin dashed black; 
+	 width: 90px; 
+	 height: 90px; 
+	vertical-align: middle;
+}
+
+#slot3 {
+	 margin-top: 5px; 
+	 padding-left: 20%;
+	 padding-right: 17px; 
+	 float: left; 
+	 border-right: thin dashed black; 
+	 width: 90px; 
+	 height: 90px; 
+	vertical-align: middle;
+}
+ 
+ 
+
+ 
+  
